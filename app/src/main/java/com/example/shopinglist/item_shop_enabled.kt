@@ -3,9 +3,9 @@ package com.example.shopinglist
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {
+class item_shop_enabled : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_item_shop_enabled)
     }
 }
